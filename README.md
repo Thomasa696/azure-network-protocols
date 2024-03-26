@@ -40,20 +40,8 @@ Making observation of command prompt to begin pinging in wireshark the private I
 </p>
 <br />
 
-<p>
+
 ![image](https://github.com/Thomasa696/azure-network-protocols/assets/164200083/a7594362-c13a-4bb2-8c9e-dc8517573600).
 
 Observing the nonstop configurations in the virtual machine from the remote desktop.  Activity is continuous unless you put a command to stop. The fields continue to populate.
 </p>
-<p>
-
-</p>
-<br />
-
-<p>
-
-</p>
-<p>
-
-</p>
-<br />
