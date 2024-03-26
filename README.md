@@ -41,7 +41,8 @@ Making observation of command prompt to begin pinging in wireshark the private I
 <br />
 
 <p>
-![image](https://github.com/Thomasa696/azure-network-protocols/assets/164200083/777f5f54-468e-4979-a181-09353a4c9108).
+< ![image](https://github.com/Thomasa696/azure-network-protocols/assets/164200083/a7594362-c13a-4bb2-8c9e-dc8517573600)
+
 
 </p>
 <p>
