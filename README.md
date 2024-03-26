@@ -33,7 +33,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
  ![image](https://github.com/Thomasa696/azure-network-protocols/assets/164200083/df3c3920-2219-4361-9517-80fd165631a1)
 
-Making observation of command prompt to begin pinging in wireshark the private IP address of the second VM we made
+Making observation of command prompt to begin pinging in wireshark the private IP address of the second VM we made.  Observation of the DHCP traffic using Wireshark
 </p>
 <p>
 
